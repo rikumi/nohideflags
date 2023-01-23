@@ -3,9 +3,9 @@
 	"id": "no-hide-flags",
 	"version": "${version}",
 	"name": "No Hide Flags",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A simple mod to show hidden NBT on every item.",
 	"authors": [
-		"Me!"
+		"rikumi"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
